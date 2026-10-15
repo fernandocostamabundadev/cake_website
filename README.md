@@ -16,3 +16,4 @@ Abra `index.html` num navegador. O formulário e o contador são demonstrações
 Projeto inspirado no tutorial [Responsive Cake Website](https://youtu.be/G6q7AkaljE4), de [Bedimcode](https://www.youtube.com/@Bedimcode).
 # cake_website
 # cake_website
+# chicken_website
